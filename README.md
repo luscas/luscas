@@ -10,8 +10,8 @@ Eu me chamo Lucas e tenho 21 anos. Sou um desenvolvedor web e mobile que vive e 
 <a href="https://github.com/luscas/nubank-clone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luscas&repo=nubank-clone&theme=dracula" />
 </a>
-<a href="https://github.com/luscas/flutter-calculator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luscas&repo=flutter-calculator&theme=dracula" />
+<a href="https://github.com/luscas/bethehero">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luscas&repo=bethehero&theme=dracula" />
 </a>
 
 ---
