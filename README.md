@@ -1,6 +1,6 @@
 **E aí, pessoal!**
 
-Eu me chamo Lucas e tenho 21 anos. Sou um desenvolvedor web e mobile que vive e trabalha no Piauí. Nos meus tempos vagos costumo estudar novas tecnologias ou então praticar meu hobby atual que é replicar aplicativos famosos e postar no meu github.
+Eu me chamo Lucas e tenho 22 anos. Sou um desenvolvedor web e mobile que vive e trabalha no Piauí. Nos meus tempos vagos costumo estudar novas tecnologias ou então praticar meu hobby atual que é replicar aplicativos famosos e postar no meu github.
 
 ### Linguagens que mais utilizo
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luscas&layout=compact&theme=dracula)](https://github.com/luscas)
