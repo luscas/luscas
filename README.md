@@ -7,17 +7,44 @@
 </p>
 
 ### Linguagens que mais utilizo
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luscas&layout=compact&theme=transparent)](https://github.com/luscas)
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luscas&layout=compact&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luscas&layout=compact&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luscas&layout=compact&show_icons=true" />
+</picture>
 
 ---
 ### Favoritos
-<a href="https://github.com/luscas/nubank-clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luscas&repo=nubank-clone&theme=transparent" />
-</a>
-<a href="https://github.com/luscas/bethehero">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luscas&repo=bethehero&theme=transparent" />
-</a>
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=luscas&repo=nubank-clone&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=luscas&repo=nubank-clone&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luscas&repo=nubank-clone&show_icons=true" />
+</picture>
+
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=luscas&repo=bethehero&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=luscas&repo=bethehero&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luscas&repo=bethehero&show_icons=true" />
+</picture>
+
 ---
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/luscas)](https://lucaspaz.com)
