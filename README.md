@@ -47,5 +47,8 @@
 
 ---
 
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=a6bc1ba95a9f&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
+
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/luscas)](https://lucaspaz.com)
 [![Followers](https://img.shields.io/github/followers/luscas?style=social)](https://lucaspaz.com)
