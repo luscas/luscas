@@ -1,7 +1,7 @@
 **E aí, pessoal!**
 
 <p align="left">
-  Eu me chamo Lucas e tenho 25 anos. Sou um desenvolvedor web e mobile que vive e trabalha no Piauí. Nos meus tempos vagos costumo estudar novas tecnologias ou então praticar meu hobby atual que é replicar aplicativos famosos e postar no meu github.
+  Eu me chamo Lucas e tenho 26 anos. Sou um desenvolvedor web e mobile que vive e trabalha no Piauí. Nos meus tempos vagos costumo estudar novas tecnologias ou então praticar meu hobby atual que é replicar aplicativos famosos e postar no meu github.
 
   <a href="https://app.daily.dev/luscas"><img align="right" src="https://api.daily.dev/devcards/9d4bbce6333e4f16a071bfb852b42050.png?r=ltp" width="140" alt="Lucas's Dev Card"/></a>
 </p>
