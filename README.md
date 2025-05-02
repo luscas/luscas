@@ -1,54 +1,9 @@
-**E aí, pessoal!**
+Como desenvolvedor com mais de 12 anos de experiência, atuei em projetos de grande impacto para empresas líderes em seus setores. Trabalhei na maior produtora de aço do mundo, onde contribuí para o desenvolvimento de soluções inovadoras. Um dos meus projetos foi uma plataforma reconhecida publicamente pelo presidente da CNI por sua relevância e impacto no setor industrial. Também desenvolvi uma plataforma de mensuração de pegada de carbono utilizada por grandes empresas de diversos setores, ajudando essas organizações a avançarem em suas metas de sustentabilidade e a responderem aos desafios das mudanças climáticas.
 
-<p align="left">
-  Eu me chamo Lucas e tenho 26 anos. Sou um desenvolvedor web e mobile que vive e trabalha no Piauí. Nos meus tempos vagos costumo estudar novas tecnologias ou então praticar meu hobby atual que é replicar aplicativos famosos e postar no meu github.
+Tenho sólida expertise em desenvolvimento de aplicações web, com foco em NextJS, mas também me sinto confortável com outros frameworks populares como VueJS, Svelte e Remix. No lado do servidor, sou profundamente familiar com Laravel e também apaixonado por NodeJS e o framework NestJS, que utilizo para criar backends robustos e escaláveis.
 
-  <a href="https://app.daily.dev/luscas"><img align="right" src="https://api.daily.dev/devcards/9d4bbce6333e4f16a071bfb852b42050.png?r=ltp" width="140" alt="Lucas's Dev Card"/></a>
-</p>
+Minha experiência vai além do desenvolvimento web tradicional. Adquiri habilidades em tecnologias de mensageria e processamento assíncrono, como RabbitMQ, Kafka e Temporal.io, o que me permitiu trabalhar em projetos de alta complexidade. Com RabbitMQ, implementei soluções de comunicação eficiente entre componentes de sistemas distribuídos; com Kafka, desenvolvi pipelines para streaming de dados em tempo real; e com Temporal.io, orquestrei fluxos de trabalho complexos, garantindo que sistemas de grande escala operassem com alta eficiência e resiliência.
 
-### Linguagens que mais utilizo
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luscas&layout=compact&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luscas&layout=compact&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luscas&layout=compact&show_icons=true" />
-</picture>
+Além das minhas competências técnicas, atuei como Tech Lead em diversos projetos. Nesse papel, fui responsável por liderar equipes de desenvolvimento, desde a coordenação e planejamento de atividades até a tomada de decisões técnicas críticas. Minha atuação como Tech Lead me ensinou a importância de promover a comunicação eficaz dentro das equipes e de manter o foco na entrega de projetos de alta qualidade dentro dos prazos estabelecidos. Esse papel também me proporcionou uma visão mais estratégica dos projetos, fortalecendo minhas habilidades em resolução de problemas e tomada de decisões técnicas.
 
----
-### Favoritos
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=luscas&repo=nubank-clone&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=luscas&repo=nubank-clone&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luscas&repo=nubank-clone&show_icons=true" />
-</picture>
-
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=luscas&repo=bethehero&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin/?username=luscas&repo=bethehero&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luscas&repo=bethehero&show_icons=true" />
-</picture>
-
----
-
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=a6bc1ba95a9f&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
-
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/luscas)](https://lucaspaz.com)
-[![Followers](https://img.shields.io/github/followers/luscas?style=social)](https://lucaspaz.com)
+Sou uma pessoa curiosa e gosto de explorar diferentes áreas da tecnologia. Por exemplo, uso Python para manipulação de dados com a biblioteca Pandas, e para desenvolvimento em Blockchain, minha linguagem preferida é Golang. Esse interesse por diferentes tecnologias me mantém atualizado e me permite contribuir de maneira versátil em diferentes tipos de projetos.
