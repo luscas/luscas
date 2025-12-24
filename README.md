@@ -1,9 +1,99 @@
-I'm a developer with over 12 years of experience, and I've worked on high-impact projects for leading companies in their industries. I spent time at the world's largest steel producer, where I helped develop innovative solutions. One of my projects was a platform that was publicly recognized by the president of CNI for its relevance and impact on the industrial sector. I also built a carbon footprint measurement platform that's used by major companies across different industries, helping them move forward with their sustainability goals and tackle the challenges of climate change.
+<!-- 
+  ██████╗ ██████╗ ███████╗██╗  ██╗██╗███╗   ██╗ ██████╗ 
+  ██╔══██╗██╔══██╗██╔════╝██║  ██║██║████╗  ██║██╔════╝ 
+  ██████╔╝██████╔╝███████╗███████║██║██╔██╗ ██║██║  ███╗
+  ██╔══██╗██╔══██╗╚════██║██╔══██║██║██║╚██╗██║██║   ██║
+  ██████╔╝██║  ██║███████║██║  ██║██║██║ ╚████║╚██████╔╝
+  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝ 
+                                                      
+  Architecting the Future at Scale | CTO | Senior Software Engineer
+-->
 
-I've got solid expertise in web application development, focusing mainly on NextJS, but I'm also comfortable with other popular frameworks like VueJS, Svelte, and Remix. On the backend, I'm deeply familiar with Laravel, and I'm also passionate about NodeJS and the NestJS framework, which I use to build robust and scalable backends.
+<div align="center">
 
-My experience goes beyond traditional web development. I've picked up skills in messaging and asynchronous processing technologies like RabbitMQ, Kafka, and Temporal.io, which have allowed me to work on highly complex projects. With RabbitMQ, I've implemented efficient communication solutions between components of distributed systems; with Kafka, I've developed pipelines for real-time data streaming; and with Temporal.io, I've orchestrated complex workflows, making sure large-scale systems run efficiently and reliably.
+### Hi, I'm Lucas Paz 👋
 
-Besides my technical skills, I've worked as a Tech Lead on several projects. In this role, I was responsible for leading development teams, from coordinating and planning activities to making critical technical decisions. Being a Tech Lead taught me the importance of fostering effective communication within teams and staying focused on delivering high-quality projects on time. This role also gave me a more strategic view of projects, strengthening my problem-solving and technical decision-making abilities.
+**CTO & Head of Technology | Senior Software Engineer**
 
-I'm a curious person and love exploring different areas of technology. For example, I use Python for data manipulation with the Pandas library, and when it comes to blockchain development, my language of choice is Golang. This interest in different technologies keeps me up to date and lets me contribute flexibly to all kinds of projects.
+---
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=2BC7E8&center=true&vCenter=true&width=900&lines=Building+Digital+Businesses+at+Scale+(R%241M%2Fday);AWS+Architecture+%7C+AI+%7C+Blockchain+%7C+ESG;Bridging+High-Level+Engineering+with+Business+Strategy;Innovation+that+generates+%2BR%24100M+Annually)
+
+</div>
+
+---
+
+## 🚀
+
+I'm a Technology Executive and Senior Software Architect with over **12 years of experience** driving digital transformation in high-revenue environments. 
+
+Currently serving as **CTO**, I oversee technology strategies that support **R$100M+ annual revenue** and digital operations processing **over R$1M/day**. My expertise lies not just in writing code, but in building **resilient, distributed systems** that directly impact business growth, sustainability (ESG), and operational efficiency.
+
+---
+
+## 🏆 Key Highlights & Impact
+
+> **"Technology is best when it brings people together and solves real-world problems."**
+
+*   **Global Scale Experience:** Led strategic projects for the **world's largest steel producer**, developing award-winning solutions recognized by *CNI* (Confederação Nacional da Indústria).
+*   **Sustainability Leader:** Architected a **Carbon Footprint Platform** adopted by major enterprises to accelerate their ESG goals.
+*   **High-Throughput Architecture:** Specialized in asynchronous and distributed architectures using **Kafka, RabbitMQ, and Temporal.io** to ensure resilience in high-complexity systems.
+*   **Strategic Leadership:** As a Tech Lead, I have guided multidisciplinary teams, bridging the gap between technical decisions and business objectives.
+
+---
+
+## 🛠️ Tech Stack & Expertise
+
+My toolkit is driven by the need for performance, scalability, and innovation.
+
+### 💻 Frontend & Mobile
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Remix](https://img.shields.io/badge/Remix-000000?style=for-the-badge&logo=remix&logoColor=white)
+
+### ⚙️ Backend & Architecture
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+### ☁️ Cloud, DevOps & Data
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Temporal](https://img.shields.io/badge/Temporal-2563EB?style=for-the-badge&logo=temporal&logoColor=white)
+
+### 🔗 Blockchain & Innovation
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=for-the-badge&logo=pandas&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain-dot-com&logoColor=white)
+
+---
+
+## 🌱 Current Focus & Interests
+
+I'm passionate about **innovation with purpose**. I'm currently exploring the intersection of:
+*   **AI & Data Analytics** using Python and Pandas for deep insights.
+*   **Blockchain Technologies** using Golang to build decentralized trust.
+*   **Scalable Software Architectures** that can sustain hyper-growth.
+
+I'm seeking opportunities to combine **cutting-edge technology** with **high-level engineering challenges** that generate positive social or environmental impact.
+
+---
+
+## 📩 Let's Connect
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaswcg/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eu@lucaspaz.com)
+
+</div>
+
+<div align="center">
+
+**_"Innovating for a sustainable future, one line of code at a time."_**
+
+</div>
