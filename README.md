@@ -13,7 +13,7 @@
 
 ### Hi, I'm Lucas Paz 👋
 
-**CTO & Head of Technology | Senior Software Engineer**
+**CEO & Head of Technology | Senior Software Engineer**
 
 ---
 
