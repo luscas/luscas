@@ -27,7 +27,7 @@
 
 I'm a Technology Executive and Senior Software Architect with over **12 years of experience** driving digital transformation in high-revenue environments. 
 
-Currently serving as **CTO**, I oversee technology strategies that support **R$100M+ annual revenue** and digital operations processing **over R$1M/day**. My expertise lies not just in writing code, but in building **resilient, distributed systems** that directly impact business growth, sustainability (ESG), and operational efficiency.
+Currently serving as **CEO**, I oversee technology strategies that support **R$100M+ annual revenue** and digital operations processing **over R$1M/day**. My expertise lies not just in writing code, but in building **resilient, distributed systems** that directly impact business growth, sustainability (ESG), and operational efficiency.
 
 ---
 
